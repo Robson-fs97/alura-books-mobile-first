@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://github.com/MonicaHillman/alurabooks/blob/aula05/img/Logo.svg" alt="Logo da alura plus"> </p>
 <p align="center">Um site do e-commerce AluraBooks, uma livraria online de livros sobre tecnologia.</p>
-<p align="center">Criado durante o curso HTML e CSS: responsividade com mobile-first da formação Front-end na ALura.</p>
+<p align="center">Criado durante o curso HTML e CSS: responsividade com mobile-first da formação Front-end na Alura.</p>
 
 ## Tecnologias
 * HTML
